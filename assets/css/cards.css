@@ -1,0 +1,195 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: #e6e3e0;
+  margin: 0 auto;
+  font-weight: 400;
+  color: #333;
+}
+
+p {
+  margin: 0px;
+}
+.container {
+  margin: 3%;
+  line-height: 1.5;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+}
+
+.headerContainer {
+  margin: 0 auto;
+  width: 990px;
+}
+.header {
+  position: relative;
+  margin: 17px 20px;
+  min-height: 33px;
+  height: 120px;
+  text-align: center;
+}
+
+.a.head {
+  color: #808080;
+}
+a.head:visited {
+  text-decoration: none;
+  color: #808080;
+}
+a.head:hover {
+  text-decoration: none;
+  color: #3bf5c8;
+}
+h1 {
+  color: #808080;
+  font-weight: 700;
+  line-height: 1;
+  margin-top: 100px;
+  margin-bottom: 1.2em;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+p.overview {
+  color: #808080;
+  line-height: 2;
+}
+
+.CORONA {
+  display: flex;
+  font-size: 0.75em;
+  background-color: #fff;
+  width: 360px;
+  height: 240px;
+  margin: 10px;
+  padding: 0px;
+}
+.CORONA:hover {
+  outline-width: 10px;
+  outline-style: solid;
+  outline-color: #3bf5c8;
+  transform: scale(1.4);
+  transition-duration: 0.3s;
+}
+
+.Post {
+  background-color: #000;
+  color: #fff;
+}
+
+.links {
+  background-color: #fff;
+  width: 360px;
+  height: 240px;
+  margin: 10px;
+  font-size: 14px;
+
+  flex-direction: column;
+}
+.uplink {
+  margin: 30px;
+}
+span.link {
+  color: #333;
+}
+.bottomlinks {
+  border-top: solid 1.5px #333;
+  padding: 15px 0;
+  margin: 50px 30px 0 30px;
+  display: flex;
+}
+.leftlink {
+  width: 115px;
+  height: 50px;
+  padding: 0 50px 0 10px;
+  border-right: solid 1.5px #333;
+}
+.rightlink {
+  width: 145px;
+  height: 30px;
+  padding: 0 50px 0 10px;
+}
+a.bottom {
+  margin: 0 10px 0 0;
+  font-size: 14px;
+}
+.right {
+  width: 180px;
+  height: 240px;
+  padding: 0px;
+  pointer-events: none;
+}
+.left {
+  padding: 0px;
+  width: 180px;
+  height: 240px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.head_card {
+  margin: 30px 0px 10px 30px;
+  width: 150px;
+  font-size: 0.6em;
+}
+.title_card {
+  font-size: 1.1em;
+  font-weight: 700;
+  margin: 0px 10px 0px 30px;
+  width: 150px;
+}
+.description_card {
+  width: 150px;
+  margin: 5px 10px 10px 30px;
+}
+p.small {
+  font-size: 0.7em;
+}
+a {
+  font-size: 16px;
+  text-decoration: none;
+  margin: 10px;
+  color: #333;
+}
+a:visited {
+  text-decoration: none;
+  color: #333;
+}
+a:hover {
+  text-decoration: none;
+  color: #3bf5c8;
+}
+
+.blank {
+  background-color: #e6e3e0;
+}
+
+/* 選択された tree から来た場合のスタイル */
+.flashy {
+  outline-width: 8px;
+  outline-style: solid;
+  outline-color: #3bf5c8;
+}
+.flatag {
+  color: #3bf5c8;
+}
+.tagContent {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.tag {
+  font-size: 1em;
+  margin: 2px;
+}
+a.pst {
+  color: white;
+}

@@ -1,2 +1,12 @@
-# innovation-dev
-innovation-dev app
+# require
+
+
+```
+npm i
+```
+
+# build
+
+```
+npm run build
+```

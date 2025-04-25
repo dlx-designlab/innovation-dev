@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="32px" viewBox="0 0 330 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>parts/header/tag</title>
+    <g id="parts/header/tag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" fill="#000000" x="0.5" y="16.5" width="164" height="15"></rect>
+        <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="165" y="16" width="165" height="16"></rect>
+        <text id="TAG" font-family="UniversLTStd-LightCn, Univers LT Std" font-size="11" font-style="condensed" font-weight="300" letter-spacing="0.458333333" fill="#000000">
+            <tspan x="7" y="13">TAG</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="32px" viewBox="0 0 330 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>parts/header/concept</title>
+    <g id="parts/header/concept" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="CONCEPT" font-family="UniversLTStd-LightCn, Univers LT Std" font-size="11" font-style="condensed" font-weight="300" letter-spacing="0.458333333" fill="#000000">
+            <tspan x="7" y="13">CONCEPT</tspan>
+        </text>
+        <g id="Group-2" transform="translate(-1.000000, 16.000000)">
+            <rect id="Rectangle-Copy-2" stroke="#000000" fill="#000000" x="1.5" y="0.5" width="329" height="15"></rect>
+            <g id="Group" transform="translate(0.000000, 4.500000)" stroke="#FFFFFF" stroke-linecap="square">
+                <line x1="0.5" y1="0.5" x2="330.5" y2="0.5" id="Line-5"></line>
+                <line x1="0.5" y1="6.5" x2="330.5" y2="6.5" id="Line-5-Copy"></line>
+            </g>
+        </g>
+    </g>
+</svg>

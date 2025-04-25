@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title INNOVATION SEEDS LIST
+    link(rel="stylesheet", href="../assets/css/cards.css")
+  body
+    .headerContainer 
+      .header
+          h1 INNOVATION SEEDS LIST
+          p.overview Overview of Ideas
+          a(href="./index.pug",class="head") 
+            p ← Home
+    .container
+        .links
+          .uplink
+            span.link ＃タグをクリックして関連アイディアを見る
+            br
+            br
+            a.bottom(href="#P1") Go to Post CORONA Ideas →
+              
+          .bottomlinks
+              .leftlink  
+                a.bottom(href="./postcorona-jp.pug") Post CORONA Mindmap →
+              .rightlink
+                a.bottom(href="./withcorona-jp.pug") With CORONA Mindmap →
+        each item in cardsJp
+            - 
+              var tag1 = item.tag1.replace("#","")
+              var tag2 = item.tag2.replace("#","")
+              var tag3 = item.tag3.replace("#","")
+            div(class=item.COVID19_Status, name = item.card_id,id = item.card_id,class=tag1,class=tag2,class=tag3)
+              div.left
+                .head_card 
+                    p #{item.COVID19_Status}
+                    p Category: #{item.Category}
+                    p Concept: #{item.Concept}
+                .title_card
+                    p #{item.Idea}
+                .description_card
+                    p.small #{item.idea_explanation}
+                    -
+                      var taglink1 = "./cards-jp.pug" + "?hashtags=" + item.tag1.replace("#","")
+                      var taglink2 = "./cards-jp.pug" + "?hashtags=" + item.tag2.replace("#","")
+                      var taglink3 = "./cards-jp.pug" + "?hashtags=" + item.tag3.replace("#","") 
+                    .tagContent
+                      - 
+                        var postc = ""
+                        if(item.COVID19_Status =="Post CORONA"){
+                          postc = "pst"
+                        }
+                         
+                      a(href= taglink1, class="tag",class=postc)
+                        p(class=tag1) #{item.tag1} 
+                      a(href= taglink2, class="tag",class=postc)
+                        p(class=tag2) #{item.tag2} 
+                      a(href= taglink3, class="tag",class=postc)
+                        p(class=tag3) #{item.tag3} 
+  
+              div.right
+                -
+                  var src = `../assets/images/${item.illust_data_name}`
+                img(src=src, alt="").img1
+        .CORONA.blank
+        .CORONA.blank  
+        .CORONA.blank
+    script(src="../assets/javascripts/cards.js")

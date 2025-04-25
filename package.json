@@ -1,0 +1,30 @@
+{
+  "name": "innovation_seed_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "rm -rf dist/* && parcel build src/index.pug -d dist --no-minify"
+  },
+  "engines": {
+    "node": "15.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cephale/innovation_seed_list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cephale/innovation_seed_list/issues"
+  },
+  "homepage": "https://github.com/cephale/innovation_seed_list#readme",
+  "dependencies": {
+    "d3": "^6.3.1",
+    "express": "^4.17.1",
+    "parcel-bundler": "^1.12.4",
+    "pug": "^3.0.0"
+  }
+}

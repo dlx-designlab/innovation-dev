@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="32px" viewBox="0 0 330 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>parts/header/period</title>
+    <g id="parts/header/period" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" fill="#000000" x="0.5" y="16.5" width="329" height="15"></rect>
+        <text id="PERIOD" font-family="UniversLTStd-LightCn, Univers LT Std" font-size="11" font-style="condensed" font-weight="300" letter-spacing="0.458333333" fill="#000000">
+            <tspan x="7" y="13">PERIOD</tspan>
+        </text>
+    </g>
+</svg>

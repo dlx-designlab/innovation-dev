@@ -1,0 +1,1108 @@
+{
+    "name": "With CORONA",
+    "children": [
+        {
+            "name": "Interfacial Transport Engineering",
+            "children": [
+                {
+                    "name": "Air Management",
+                    "children": [
+                        {
+                            "name": "Air Flow Tracker",
+                            "value": 10,
+                            "description": "Camera which tracks and visualizes the flow of air.",
+                            "image": "with_Air_Fluid_Tracker_trim.jpg",
+                            "card_id": "W1",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#public",
+                                        "#room"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Odour Alarm",
+                            "value": 10,
+                            "description": "Device which alerts the user to a congested condition through smell.",
+                            "image": "with_Alarm_with_Smell_trim.jpg",
+                            "card_id": "W2",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#public",
+                                        "#alarm"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Body Air Filter",
+                            "value": 10,
+                            "description": "Air filter system inside the body, embedded in the lungs.",
+                            "image": "with_Body_Air_Filter_trim.jpg",
+                            "card_id": "W3",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#body",
+                                        "#medical"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air Curtain",
+                            "value": 10,
+                            "description": "Device for public transportation which controls the flow of air between people.",
+                            "image": "with_Air_Curtain_trim.jpg",
+                            "card_id": "W4",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#public",
+                                        "#transportation"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Air as Substance",
+                    "children": [
+                        {
+                            "name": "Air Mask",
+                            "value": 10,
+                            "description": "Mask producing air flow to the face to prevent the virus being inhaled.",
+                            "image": "with_Air_Mask_trim.jpg",
+                            "card_id": "W5",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#mask",
+                                        "#wearable"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Wearable Air Curtain",
+                            "value": 10,
+                            "description": "Shield for people, especially young children, who cannot wear face masks.",
+                            "image": "with_Wearable_Air_Curtain_trim.jpg",
+                            "card_id": "W6",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#mask",
+                                        "#child"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Water Flow Management",
+                    "children": [
+                        {
+                            "name": "Water Flow Surveillance 'Fish' Robot",
+                            "value": 10,
+                            "description": "Fish' robot which manages water flow to ensure the safety of water in swimming pools and public baths.",
+                            "image": "with_Water_Fluid_Surveillance_Fish_Robot_trim.jpg",
+                            "card_id": "W7",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#water",
+                                        "#pool",
+                                        "#public_bath"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Micro Components and Systems",
+            "children": [
+                {
+                    "name": "Infection Test X Things",
+                    "children": [
+                        {
+                            "name": "Infection Test Ticket",
+                            "value": 10,
+                            "description": "Microneedle patch used as an entry ticket for live concerts or large-scale gatherings.",
+                            "image": "with_Infection_Test_Ticket_trim.jpg",
+                            "card_id": "W8",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#Infection_test",
+                                        "#ticket",
+                                        "#gathering"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Self-Test Patch",
+                            "value": 10,
+                            "description": "Microneedle patch connected directly to a mobile phone for a self-test for infection.",
+                            "image": "with_Private_Test_Patch_trim.jpg",
+                            "card_id": "W9",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#Infection_test",
+                                        "#privacy",
+                                        "#mobile"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Microneedle Fabric",
+                            "value": 10,
+                            "description": "Fabric for clothes in which a microneedle is interwoven to test for infection.",
+                            "image": "with_Micro_needle_Fabric_trim.jpg",
+                            "card_id": "W10",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#Infection_test",
+                                        "#clothes",
+                                        "#fabric"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Morning Routine Patch",
+                            "value": 10,
+                            "description": "Microneedle patch which is programmed to test for infection every morning.",
+                            "image": "with_Morning_Routine_Patch_trim.jpg",
+                            "card_id": "W11",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#skin",
+                                        "#habit",
+                                        "#well_being"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Emergency Patch",
+                            "value": 10,
+                            "description": "Microneedle patch programmed to carry out a personal test for infection, making this easy.",
+                            "image": "with_Emergency_Patch_trim.jpg",
+                            "card_id": "W12",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#skin",
+                                        "#Infection_test",
+                                        "#convenience_store"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Ways of Vaccinating",
+                    "children": [
+                        {
+                            "name": "Bullet Medicine Patch",
+                            "value": 10,
+                            "description": "Microneedle patch fired from a distance like a bullet to deliver a dose of medicine.",
+                            "image": "with_Bullet_Medicine_Patch_trim.jpg",
+                            "card_id": "W13",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#infection",
+                                        "#dosage",
+                                        "#medicine"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vaccine Patch Calendar",
+                            "value": 10,
+                            "description": "Microneedle patch integrated with the calendar as a kit for immunization.",
+                            "image": "with_Vaccine_Patch_Calendar_trim.jpg",
+                            "card_id": "W14",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#vaccine",
+                                        "#immunization",
+                                        "#habit"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Two-way Microneedle",
+                            "value": 10,
+                            "description": "Microneedle patch that can be used for both vaccine injections and cosmetic masks.",
+                            "image": "with_Two_Way_Micro_needle_trim.jpg",
+                            "card_id": "W15",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#Infection_test",
+                                        "#cosmetic",
+                                        "#fabric"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Medical Biotechnology",
+            "children": [
+                {
+                    "name": "Streamlining Inspection Processes",
+                    "children": [
+                        {
+                            "name": "Capillary Measuring Knife",
+                            "value": 10,
+                            "description": "A kitchen knife that can measure the condition of capillaries and store health data.",
+                            "image": "with_Capillary_Measuring_Knife_trim.jpg",
+                            "card_id": "W16",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#daily_routine",
+                                        "#health_care",
+                                        "#data"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Capillary Measuring Key",
+                            "value": 10,
+                            "description": "Key that can measure the condition of capillaries and store health data.",
+                            "image": "with_Capillary_Measuring_Key_trim.jpg",
+                            "card_id": "W17",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#daily_routine",
+                                        "#health_care",
+                                        "#data"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Speech-free Health Measurement",
+                    "children": [
+                        {
+                            "name": "Health Concierge Ring",
+                            "value": 10,
+                            "description": "Health concierge in the form of a ring for the finger that measures capillary data.",
+                            "image": "with_Health_Concierge_Ring_trim.jpg",
+                            "card_id": "W18",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#health_care",
+                                        "#wearable",
+                                        "#fashion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Talkless Health Measurement",
+                    "children": [
+                        {
+                            "name": "Baby Capillary Monitor",
+                            "value": 10,
+                            "description": "Measuring instrument for checking the capillary health of babies",
+                            "image": "with_BabyCapillary_Monitoring_trim.jpg",
+                            "card_id": "W19",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#health_care",
+                                        "#remote",
+                                        "#baby"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ultrafast Optics",
+            "children": [
+                {
+                    "name": "Virus Detection",
+                    "children": [
+                        {
+                            "name": "Infection Breath Test",
+                            "value": 10,
+                            "description": "Device to scan and test people's breath for viruses.",
+                            "image": "with_Breath_infection_test_trim.jpg",
+                            "card_id": "W20",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#Infection_test",
+                                        "#breath"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Virus Monitor",
+                            "value": 10,
+                            "description": "Virus monitor incorporated into the ventilation systems of public spaces, such as hospitals.",
+                            "image": "with_Virus_monitor_trim.jpg",
+                            "card_id": "W21",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#data_visualisation",
+                                        "#public"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote Virus Scanner",
+                            "value": 10,
+                            "description": "Telescope that detects viruses in distant places.",
+                            "image": "with_Remote_Virus_Check_trim.jpg",
+                            "card_id": "W22",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#remote",
+                                        "#detection"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Health Care at Home",
+                    "children": [
+                        {
+                            "name": "Disease Sensor Camera",
+                            "value": 10,
+                            "description": "Camera that detects disease in the person being photographed.",
+                            "image": "with_Illness_Sensor_Camera_trim.jpg",
+                            "card_id": "W23",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#health_care",
+                                        "#medical",
+                                        "#detection"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Visualization of the Virus",
+                    "children": [
+                        {
+                            "name": "VR Virus Visualizer",
+                            "value": 10,
+                            "description": "VR goggles that detect and visualize viruses.",
+                            "image": "with_VR_virus visualization_trim.jpg",
+                            "card_id": "W24",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#detection",
+                                        "#data_visualisation",
+                                        "#VR"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Audible Virus Indicator",
+                            "value": 10,
+                            "description": "Enables the increase in infrared rays that indicate the presence of a virus to be audible as music.",
+                            "image": "with_Sound_of_Virus_trim.jpg",
+                            "card_id": "W25",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#detection",
+                                        "#alarm",
+                                        "#auralization"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Isotope Meteorology",
+            "children": [
+                {
+                    "name": "Visualization of Corona Impact",
+                    "children": [
+                        {
+                            "name": "COVID-19 Impact Map",
+                            "value": 10,
+                            "description": "Map visualizing the positive/negative impacts of Coronavirus on a global scale.",
+                            "image": "with_COVID19_Impact_Map_trim.jpg",
+                            "card_id": "W26",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#globe",
+                                        "#data_visualisation",
+                                        "#climate"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Airborne Virus Detector",
+                            "value": 10,
+                            "description": "Detector identifying airborne viruses in rain and wind.",
+                            "image": "with_Virus_Air_borne_Detector_trim.jpg",
+                            "card_id": "W27",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#detection",
+                                        "#data_visualisation"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Crowdsourced Visualization",
+                    "children": [
+                        {
+                            "name": "Quiet Shop Finder",
+                            "value": 10,
+                            "description": "App examining the airflow in local shops to identify those that are less crowded.",
+                            "image": "with_Quiet_Shop_Finder_trim.jpg",
+                            "card_id": "W28",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#data_visualisation",
+                                        "#congestion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Management of Project",
+            "children": [
+                {
+                    "name": "Re-coding of Education",
+                    "children": [
+                        {
+                            "name": "Dialogue Generating System",
+                            "value": 10,
+                            "description": "System to identify common interests among students working online, to generate dialogue.",
+                            "image": "with_Dialog_Generating_System_trim.jpg",
+                            "card_id": "W29",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#online",
+                                        "#education",
+                                        "#communication"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tactile Sensation Simulator",
+                            "value": 10,
+                            "description": "Synchronized vibrating pen that simulates a craftsperson's tactile activity physically/virtually.",
+                            "image": "with_Tactile_Sensation_Reproducer_trim.jpg",
+                            "card_id": "W30",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#tactile",
+                                        "#education",
+                                        "#interaface"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Types of Contact Sensing",
+                    "children": [
+                        {
+                            "name": "Non-tactile Sensation Simulator",
+                            "value": 10,
+                            "description": "Touch simulator mimicking haptic activity in order to avoid physical contact with surfaces.",
+                            "image": "with_Touchless_Tactile_Sensation_trim.jpg",
+                            "card_id": "W31",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#touchless",
+                                        "#interaface",
+                                        "#tactile"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Domestic Functions",
+                    "children": [
+                        {
+                            "name": "Targeted Sounds",
+                            "value": 10,
+                            "description": "Sounds which can be heard only by a targeted person.",
+                            "image": "with_Targeted_Sound_trim.jpg",
+                            "card_id": "W32",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#online",
+                                        "#home",
+                                        "#communication"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Urban Energy Engineering",
+            "children": [
+                {
+                    "name": "Active Creation of Clean Air",
+                    "children": [
+                        {
+                            "name": "Virus Filter",
+                            "value": 10,
+                            "description": "Ventilation filter that removes viruses",
+                            "image": "with_Virus_Filter_trim.jpg",
+                            "card_id": "W33",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#cleaning",
+                                        "#architecture"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Portable Air Purifier",
+                            "value": 10,
+                            "description": "Portable and wearable air purifier.",
+                            "image": "with_Portable_Air_Cleaner_trim.jpg",
+                            "card_id": "W34",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#cleaning",
+                                        "#health"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Virus-killing Chewing Gum",
+                            "value": 10,
+                            "description": "Chewing gum that kills Coronavirus and cleans the inside of the mouth.",
+                            "image": "with_Virus_Killing_Gum_trim.jpg",
+                            "card_id": "W35",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#cleaning",
+                                        "#breath"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nose and Mouth Masks",
+                            "value": 10,
+                            "description": "Masks that can be worn separately on the mouth and nose.",
+                            "image": "with_Nose_Mask_Mouse_Mask_trim.jpg",
+                            "card_id": "W49",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#wearable",
+                                        "#mask",
+                                        "#fashion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Air Requirements",
+                    "children": [
+                        {
+                            "name": "Clean Air Service",
+                            "value": 10,
+                            "description": "Clean air provided as a public service.",
+                            "image": "with_Clean Air Service_trim.jpg",
+                            "card_id": "W36",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#architecture",
+                                        "#well_being"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "New Ways of Working",
+                    "children": [
+                        {
+                            "name": "Soundproof Mask",
+                            "value": 10,
+                            "description": "Soundproof mask with a built-in microphone that can't be heard by others.",
+                            "image": "with_Soundproof_Mask_trim.jpg",
+                            "card_id": "W37",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#communication",
+                                        "#mask",
+                                        "#wearable"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote Meeting Spaces",
+                            "value": 10,
+                            "description": "Safe spaces for remote meetings in public places (cafes, public facilities, etc.).",
+                            "image": "with_Remote_Meeting_Space_trim.jpg",
+                            "card_id": "W38",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#remote",
+                                        "#architecture",
+                                        "#communication"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "New Working Style Index",
+                            "value": 10,
+                            "description": "Index calculated by tracking the correlation between the level of telecommuting and the economy",
+                            "image": "with_New_Work_Style_Index_trim.jpg",
+                            "card_id": "W39",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#city",
+                                        "#public",
+                                        "#well_being"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Human Centered Urban Informatics",
+            "children": [
+                {
+                    "name": "Safety Visualization",
+                    "children": [
+                        {
+                            "name": "Infection Prevention Map",
+                            "value": 10,
+                            "description": "Map showing how people can avoid infection and reach their destination safely.",
+                            "image": "with_Infection_Prevention_Map_trim.jpg",
+                            "card_id": "W40",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#public",
+                                        "#infection",
+                                        "#congestion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Interactive visual intelligence",
+            "children": [
+                {
+                    "name": "Visual Experience",
+                    "children": [
+                        {
+                            "name": "VR Coronavirus Patient Experience",
+                            "value": 10,
+                            "description": "VR experience demonstrating how Coronavirus patients are discriminated against visually by others.",
+                            "image": "with_VR_Corona_Patient_Experience_trim.jpg",
+                            "card_id": "W41",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#privacy",
+                                        "#discrimination",
+                                        "#communication"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Visual Media Engineering",
+            "children": [
+                {
+                    "name": "Non-tactile Solutions",
+                    "children": [
+                        {
+                            "name": "Non-tactile Transportation",
+                            "value": 10,
+                            "description": "Transportation that is fully equipped to reduce contact and prevent infection.",
+                            "image": "with_Touchless_Transportation_trim.jpg",
+                            "card_id": "W42",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#office",
+                                        "#touchless",
+                                        "#infection"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Single-seater Compact Car",
+                            "value": 10,
+                            "description": "Single-seater autonomous vehicle that can travel to a destination with no tactile contact.",
+                            "image": "with_Singleseater_Compact_Car_trim.jpg",
+                            "card_id": "W43",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#transportation",
+                                        "#touchless",
+                                        "#infection"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "My Drone",
+                            "value": 10,
+                            "description": "Personal drone that can be operated by physical gestures, with no tactile contact.",
+                            "image": "with_My_Drone_trim.jpg",
+                            "card_id": "W44",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#logistics",
+                                        "#touchless",
+                                        "#infection"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sign Language Translator",
+                            "value": 10,
+                            "description": "Translator that enables conversations in sign language, thus avoiding infection from droplets..",
+                            "image": "with_Sign_Language_Translator_trim.jpg",
+                            "card_id": "W45",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#communication",
+                                        "#touchless",
+                                        "#infection"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Non-tactile Alternative Switch",
+                            "value": 10,
+                            "description": "Non-tactile button that works as an alternative control switch for devices, operated by the human eye.",
+                            "image": "with_Touchless_Alternate_Switch_trim.jpg",
+                            "card_id": "W46",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#home",
+                                        "#touchless",
+                                        "#infection"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Design of Architecture",
+            "children": [
+                {
+                    "name": "Flexible Urban Living",
+                    "children": [
+                        {
+                            "name": "Mobile City Homes",
+                            "value": 10,
+                            "description": "Mobile urban home that provides appropriate spacing between homes to manage population density.",
+                            "image": "with_Mobile_Home_City_trim.jpg",
+                            "card_id": "W47",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#home",
+                                        "#congestion",
+                                        "#architecture"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Public Teleportation Point",
+                            "value": 10,
+                            "description": "Urban facility from which objects can be molecularly scanned and teleported",
+                            "image": "with_Public_Teleportation_Spot_trim.jpg",
+                            "card_id": "W48",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#communication",
+                                        "#well_being",
+                                        "#community"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Biophysical Engineering",
+            "children": [
+                {
+                    "name": "Active Creation of Clean Air",
+                    "children": [
+                        {
+                            "name": "Virus Filter",
+                            "value": 10,
+                            "description": "Ventilation filter that removes viruses",
+                            "image": "with_Virus_Filter_trim.jpg",
+                            "card_id": "W33",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#cleaning",
+                                        "#architecture"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Portable Air Purifier",
+                            "value": 10,
+                            "description": "Portable and wearable air purifier.",
+                            "image": "with_Portable_Air_Cleaner_trim.jpg",
+                            "card_id": "W34",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#cleaning",
+                                        "#health"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Virus-killing Chewing Gum",
+                            "value": 10,
+                            "description": "Chewing gum that kills Coronavirus and cleans the inside of the mouth.",
+                            "image": "with_Virus_Killing_Gum_trim.jpg",
+                            "card_id": "W35",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#air",
+                                        "#cleaning",
+                                        "#breath"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nose and Mouth Masks",
+                            "value": 10,
+                            "description": "Masks that can be worn separately on the mouth and nose.",
+                            "image": "with_Nose_Mask_Mouse_Mask_trim.jpg",
+                            "card_id": "W49",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#wearable",
+                                        "#mask",
+                                        "#fashion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Corona Measures for Fashion",
+                    "children": [
+                        {
+                            "name": "Virus-proof Fashion",
+                            "value": 10,
+                            "description": "Clothes made from a fabric which repels viruses.",
+                            "image": "with_Virus_proof_Fashion_trim.jpg",
+                            "card_id": "W50",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "tags": [
+                                        "#wearable",
+                                        "#fabric",
+                                        "#fashion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
